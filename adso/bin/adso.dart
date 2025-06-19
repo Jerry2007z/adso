@@ -1,6 +1,4 @@
-import 'package:adso/adso.dart' as adso;
-
-class persona {
+class Persona {
   late int codigo;
   late String nombre;
 }
